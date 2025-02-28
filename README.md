@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @alitkbbl
-- 👀 I’m interested in web 
-- 🌱 I’m currently learning Front-end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+hi I'm Ali .
+Computer sience student in aut.ac.ir (AUT)
+Full-stack developer work with React && Node.js.
 
 <!---
 alitkbbl/alitkbbl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
