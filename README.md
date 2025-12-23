@@ -8,19 +8,13 @@ Currently, I am transitioning my career toward building efficient and scalable s
 * 🔭 I’m currently working as a **FullStack Developer** at Rasta Novin.
 * ⚙️ I have transitioned from Front-end to **Back-end engineering** with a focus on **Golang**.
 * 🎓 I hold an Associate degree in Computer Engineering from **NIT** and am pursuing my Bachelor's at **AUT**.
-* 🏆 Recently part of the executive team for the **PolyCode Competition** at Amirkabir University.
 
 ### 🛠 Tech Stack
-* **Languages:** Go, TypeScript, JavaScript, Node.js.
+* **Languages:** Go, TypeScript, JavaScript, Node.js, C++.
 * **Back-end:** Gin, Echo, Gorm, RESTful APIs, Microservices.
 * **Front-end:** React, Next.js.
 * **Databases:** PostgreSQL, MongoDB.
 * **Tools:** Docker, RabbitMQ, Git/GitHub.
-
-### 📁 Featured Projects
-* **TaskFlow API:** A RESTful task management system built with Golang and Gin.
-* **Warehouse Management System:** A Go-based system with role-based access control.
-* **Laptop Shop:** A MERN stack application featuring JWT auth.
 
 ### 📜 Certificates
 * **Backend Development with Golang** - Quera.
